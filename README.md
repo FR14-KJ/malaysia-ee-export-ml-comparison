@@ -54,4 +54,4 @@ See the full project report (`ML Project Report.pdf`) for complete literature re
 
 ## Related project
 
-The ARIMA baseline referenced here is fully documented in a companion study: [ARIMA-Based Forecasting](#) *(link your first repo here)*
+The ARIMA baseline referenced here is fully documented in a companion study: [ARIMA-Based Forecasting](https://github.com/FR14-KJ/malaysia-ee-export-forecasting) 
